@@ -6,7 +6,7 @@ function inverseWhile() {
 
     var i = 5;
     while (i >= 0) {
-        fiveNumbers += i+,;
+        fiveNumbers += i+",";
         i--;        
     }
 
