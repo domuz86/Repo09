@@ -18,4 +18,4 @@ console.log(logicOrder(110));
 
 //Only change code above this line
 
-module.exports = logicOrder();
+module.exports = logicOrder;
