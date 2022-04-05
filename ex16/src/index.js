@@ -29,4 +29,4 @@ function switchCaseSequential(num) {
 }
 
 console.log(switchCaseSequential(6));
-module.exports = switchCaseSequential();
+module.exports = switchCaseSequential;
