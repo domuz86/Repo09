@@ -16,4 +16,4 @@ function inverseWhile() {
 //Only change code above this line
 
 console.log(inverseWhile());
-module.exports = inverseWhile();
+module.exports = inverseWhile;
