@@ -15,4 +15,4 @@ console.log(isLess(15, 10));
 
 //Only change code above this line
 
-module.exports = isLess();
+module.exports = isLess;
