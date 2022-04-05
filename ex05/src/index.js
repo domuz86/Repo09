@@ -4,9 +4,9 @@ function compareStrictValues(m){
 
    if (m != 55) {
         return "Not equal!";
-   } else {
+   } 
        return "Equal!";
-   }
+   
 }
 2
 console.log(compareStrictValues(55));
