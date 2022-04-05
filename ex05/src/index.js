@@ -8,7 +8,7 @@ function compareStrictValues(m){
        return "Equal!";
    
 }
-2
+
 console.log(compareStrictValues(55));
 console.log(compareStrictValues("55"));
 console.log(compareStrictValues("21"));
