@@ -13,4 +13,4 @@ console.log(chechSign(0));
 
 //Only change code above this line
 
-module.exports = chechSign();
+module.exports = chechSign;
