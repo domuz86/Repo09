@@ -30,4 +30,4 @@ console.log(switchCase(4));
 
 //Only change code above this line
 
-module.exports = switchCase();
+module.exports = switchCase;
